@@ -14,7 +14,7 @@
                             </div>
                             <div class="navbar__wrap main__menu d-none d-xl-flex">
                                 <ul class="navigation">
-                                    <li class="active"><a href="index.html">HOME</a></li>
+                                    <li class="active"><a href="{{url('/')}}">HOME</a></li>
                                     <li><a href="{{route('home.about')}}">ABOUT US</a></li>
                                     <li><a href="services-details.html">OUR OBJECT</a></li>
                                     <li class="menu-item-has-children"><a href="#">LITERATURE</a>
